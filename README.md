@@ -215,6 +215,7 @@ This project is for educational purposes. Feel free to use it for learning SWR a
 - [Next.js Documentation](https://nextjs.org/docs)
 - [OpenWeatherMap API](https://openweathermap.org/api)
 - [React Documentation](https://react.dev/)
+- [Tanstack Query vs SWR Feature Comparison] (https://tanstack.com/query/latest/docs/framework/react/comparison)
 
 ---
 
